@@ -7,7 +7,7 @@
 # becomes very large, it can take several minutes to hours to run.
 # 
 # To run this program:
-# python3 final_project.py
+# python3 bootstrap.py
 # 
 # For sampling, I use the numpy library. It can be installed with pip3:
 # pip3 install numpy
